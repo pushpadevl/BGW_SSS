@@ -1,4 +1,4 @@
 # BGW_SSS
 Run using
-cargo build
-cargo run
+-- cargo build
+-- cargo run
